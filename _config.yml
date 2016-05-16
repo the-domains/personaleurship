@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.1806170607451349
 color:
   saturation: 0.6694454012904316
@@ -23,4 +11,20 @@ color:
     - '#EB7F00'
   rhythmicContrast: 0.9544741194695234
 layout_spectrum: 0.6559149147942662
+author:
+  email: ksvarre@gmail.com
+  name: Kristoffer R. Svarre
 name: Personaleurship
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: What I Would Like You to Know
