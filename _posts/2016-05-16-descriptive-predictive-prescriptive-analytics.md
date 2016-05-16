@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T18:05:41.227Z'
+datePublished: '2016-05-16T18:09:51.984Z'
 isBasedOnUrl: 'http://www.datascienceassn.org/content/descriptive-predictive-prescriptive-analytics'
 keywords:
   - analytics
@@ -14,7 +14,7 @@ keywords:
   - option
 related: []
 author: []
-dateModified: '2016-05-16T18:05:37.853Z'
+dateModified: '2016-05-16T18:09:51.548Z'
 title: Descriptive Predictive Prescriptive Analytics
 app_links: []
 publisher:
@@ -24,8 +24,8 @@ publisher:
   domain: www.datascienceassn.org
 description: 'The goal of Data Analytics (big and small) is to get actionable insights resulting in smarter decisions and better business outcomes. How you architect business technologies and design data analytics processes to get valuable, actionable insights varies.'
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-05-16-descriptive-predictive-prescriptive-analytics.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
