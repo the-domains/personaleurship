@@ -4,14 +4,8 @@
         <description><![CDATA[Personaleurship]]></description>
         <link>https://thegrid.ai/personaleurship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 19:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 19:05:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/personaleurship/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Richard St. John: 8 secrets of success]]></title>
-            <link>http://www.ted.com/talks/richard_st_john_s_8_secrets_of_success</link>
-            <guid isPermaLink="false">833632ac-da87-41bd-86d8-9ca7d9b82852</guid>
-            <pubDate>Mon, 16 May 2016 19:05:25 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[This Is How I Develope!]]></title>
             <description><![CDATA[<article><h1>This Is How I Develope!</h1><p>Innovation, Entrepreneurship, Technology, Self-development</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb02b10e-bc54-46e3-8451-2a86522c79e6.gif"></article>]]></description>
@@ -25,6 +19,12 @@
             <link>http://www.entrepreneur.com/article/235104</link>
             <guid isPermaLink="false">987cbf24-12e4-4055-a752-283300b2b8b1</guid>
             <pubDate>Mon, 16 May 2016 18:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Richard St. John: 8 secrets of success]]></title>
+            <link>http://www.ted.com/talks/richard_st_john_s_8_secrets_of_success</link>
+            <guid isPermaLink="false">833632ac-da87-41bd-86d8-9ca7d9b82852</guid>
+            <pubDate>Mon, 16 May 2016 18:32:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What if money were no object]]></title>
