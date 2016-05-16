@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.entrepreneur.com/article/235104'
 title: What CEOs Can Learn From Scientists
-datePublished: '2016-05-16T18:31:31.114Z'
-dateModified: '2016-05-16T18:30:13.712Z'
-starred: false
+datePublished: '2016-05-16T18:47:39.406Z'
+dateModified: '2016-05-16T18:47:39.100Z'
 sourcePath: _posts/2016-05-16-what-ceos-can-learn-from-scientists.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
