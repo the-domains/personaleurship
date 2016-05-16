@@ -50,10 +50,10 @@ app_links:
     name: TED
 isBasedOnUrl: 'http://www.ted.com/talks/richard_st_john_s_8_secrets_of_success'
 title: ''
-datePublished: '2016-05-16T19:05:25.669Z'
-dateModified: '2016-05-16T19:05:25.270Z'
+datePublished: '2016-05-16T19:20:27.892Z'
+dateModified: '2016-05-16T19:20:27.485Z'
 sourcePath: _posts/2016-05-16-richard-st-john-8-secrets-of-success.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
