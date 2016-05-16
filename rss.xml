@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Personaleurship]]></title>
-        <description><![CDATA[Personaleurship]]></description>
+        <title><![CDATA[What I Would Like You to Know]]></title>
+        <description><![CDATA[What I Would Like You to Know]]></description>
         <link>https://thegrid.ai/personaleurship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 19:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 20:00:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/personaleurship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Is How I Develope!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/personaleurship/this-is-how-i-develope/index.html</link>
             <guid isPermaLink="false">316ec3bc-fe9c-4e31-a1fb-0dce6950b0e5</guid>
             <pubDate>Mon, 16 May 2016 19:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Better Way to Think About Your Business Model]]></title>
+            <description><![CDATA[<article><h1>A Better Way to Think About Your Business Model</h1><p>How Nespresso used a simple business model canvas to change face of the coffee industry.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93230c2efdee63f529bf85d32539739269066c8f.jpg"></article>]]></description>
+            <link>https://hbr.org/2013/05/a-better-way-to-think-about-yo</link>
+            <guid isPermaLink="false">e4d24c08-412f-48c9-815d-75e7852080ba</guid>
+            <pubDate>Mon, 16 May 2016 20:00:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Richard St. John: 8 secrets of success]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/51213261</link>
             <guid isPermaLink="false">92a1ed13-211d-4df8-b3d3-b5d28d283f7c</guid>
             <pubDate>Mon, 16 May 2016 18:19:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strategic Renewal in the Business Model]]></title>
-            <description><![CDATA[<article><h1>Strategic Renewal in the Business Model</h1><p>In a world where the pace of change has gone hypercritical, today's most important race is the race for strategic renewal. It is the race to change as fast as the environment is changing around you; the race to invent new sources of profit before the old ones disappear...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1bfd4fd-5130-4551-ba73-ae22b8f5c35e.jpg"></article>]]></description>
-            <link>http://www.innovationexcellence.com/blog/2013/02/06/strategic-renewal-in-the-business-model/</link>
-            <guid isPermaLink="false">e313dd0b-e359-4384-8ddb-b503c63eed4d</guid>
-            <pubDate>Mon, 16 May 2016 18:19:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
