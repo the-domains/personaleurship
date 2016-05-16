@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-16T19:05:23.659Z'
+datePublished: '2016-05-16T19:20:21.556Z'
 sourcePath: _posts/2016-05-16-this-is-what-charges-me.md
 author: []
-dateModified: '2016-05-16T19:05:23.024Z'
+dateModified: '2016-05-16T19:20:21.158Z'
 title: 'This Is How I Develope!'
 description: 'Innovation, Entrepreneurship, Technology, Self-development'
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
