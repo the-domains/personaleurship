@@ -1,14 +1,26 @@
-layout_spectrum: 0.6559149147942662
-typography_spectrum: 0.18061706074513495
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1806170607451349
 color:
-  brandStrength: 0.453035777900368
-  lightness: 0.2427395866252482
   saturation: 0.6694454012904316
-  rhythmicContrast: 0.9544741194695234
+  brandStrength: 0.1039427
+  lightness: 0.2427395866252482
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  rhythmicContrast: 0.9544741194695234
+layout_spectrum: 0.6559149147942662
 name: Personaleurship
