@@ -15,7 +15,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.6146954
+  saturation: 1
   brandStrength: 0.02071936102584004
   lightness: 0.7992831
   brandColors:
@@ -24,7 +24,7 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-  rhythmicContrast: 0.9103943
+  rhythmicContrast: 0.2007169
 typography_spectrum: 0.3046595
-layout_spectrum: 0.6469534
+layout_spectrum: 0.7365592
 name: Personaleurship
