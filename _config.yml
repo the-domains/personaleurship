@@ -17,7 +17,7 @@ collections:
 color:
   saturation: 1
   brandStrength: 0.02071936102584004
-  lightness: 1
+  lightness: 0.811828
   brandColors:
     - '#96CA2D'
     - '#B5E655'
@@ -26,5 +26,5 @@ color:
     - '#7FC6BC'
   rhythmicContrast: 0
 typography_spectrum: 0.3046595
-layout_spectrum: 0.8458781
+layout_spectrum: 0.781362
 name: Personaleurship
