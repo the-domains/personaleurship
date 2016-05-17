@@ -4,7 +4,7 @@
         <description><![CDATA[What I Would Like You to Know]]></description>
         <link>https://thegrid.ai/personaleurship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 16:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 16:14:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/personaleurship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Is How I Develop!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/personaleurship/this-is-how-i-develop/index.html</link>
             <guid isPermaLink="false">316ec3bc-fe9c-4e31-a1fb-0dce6950b0e5</guid>
             <pubDate>Tue, 17 May 2016 10:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Science of Happiness: Why complaining is literally killing you. | Psych Pedia]]></title>
+            <description><![CDATA[<article><h1>The Science of Happiness: Why complaining is literally killing you. | Psych Pedia</h1><p>By Steven Parton, From CuriousApes.com Sometimes in life, all the experience and knowledge simmering around in that ol' consciousness of ours combines itself in a way that suddenly causes the cerebral clockwork to click into place, and in this fluid flow of thought we find an epiphany rising to the surface.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbac59e3ca1d3db64a6530a2ef164134f96e7e58.jpg"></article>]]></description>
+            <link>http://psychpedia.blogspot.dk/2015/11/the-science-of-happiness-why.html</link>
+            <guid isPermaLink="false">daf7625c-2c05-45b9-8cab-5ae465511d67</guid>
+            <pubDate>Tue, 17 May 2016 16:14:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Artificial Intelligence Revolution: Part 1 - Wait But Why]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.linkedin.com/today/post/article/20141118162607-117825785-the-first-step-to-success-admit-failure</link>
             <guid isPermaLink="false">bd631e17-7cbc-4029-8e1e-b138d6461b60</guid>
             <pubDate>Tue, 17 May 2016 05:40:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Won't Believe The Effect The Internet's Having On Your Brain. Actually, You Will.]]></title>
-            <description><![CDATA[<article><h1>You Won't Believe The Effect The Internet's Having On Your Brain. Actually, You Will.</h1><p>But then you'll forget.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d028ee984a52904f170dcfe7b36b262b3143590.jpg"></article>]]></description>
-            <link>http://www.upworthy.com/you-wont-believe-the-effect-the-internets-having-on-your-brain-actually-you-will?g=3&amp;c=fea</link>
-            <guid isPermaLink="false">80f21137-5fac-4aed-ad8f-b9093a6c92f2</guid>
-            <pubDate>Mon, 16 May 2016 20:02:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
