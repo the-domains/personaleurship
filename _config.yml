@@ -1,15 +1,15 @@
 typography_spectrum: 0.36434033303521574
 color:
-  saturation: 0.30597560736350715
-  brandStrength: 0.6455900487489998
-  lightness: 0.023472424130886793
+  saturation: 0.7655318067409098
+  brandStrength: 0.6261494064237922
+  lightness: 0.4201720857527107
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  rhythmicContrast: 0.6318233923520893
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  rhythmicContrast: 0.4085321119055152
 layout_spectrum: 0.6014146069064736
 author:
   email: ksvarre@gmail.com
