@@ -4,7 +4,7 @@
         <description><![CDATA[What I Would Like You to Know]]></description>
         <link>https://thegrid.ai/personaleurship/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 16:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 17:14:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/personaleurship/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This Is How I Develop!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/personaleurship/this-is-how-i-develop/index.html</link>
             <guid isPermaLink="false">316ec3bc-fe9c-4e31-a1fb-0dce6950b0e5</guid>
             <pubDate>Tue, 17 May 2016 10:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Manage Innovation]]></title>
+            <description><![CDATA[<article><h1>How to Manage Innovation</h1><p>VideoInnovation has become management's new imperative. Everybody wants to be the next Apple, Google or Netflix, nobody wants to be Kodak, Blockbuster or US Steel. Go to any conference these days and some whip-smart technogeek will declare that you must, "innovate or die," and then dazzle you a wide array of [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64670252d0c95f7657ac6694037fdc78d3aea7b3.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/gregsatell/2013/03/07/how-to-manage-innovation-2/#3e72a01c33d9</link>
+            <guid isPermaLink="false">29e579f5-eb6f-480c-a3b3-07e19b5031a1</guid>
+            <pubDate>Tue, 17 May 2016 17:14:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Science of Happiness: Why complaining is literally killing you. | Psych Pedia]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.innovationexcellence.com/blog/2013/05/07/how-to-suck-at-leadership/?goback=.gde_1953902_member_238918734</link>
             <guid isPermaLink="false">cde61c12-d51b-4698-9348-101b46e1ece6</guid>
             <pubDate>Tue, 17 May 2016 05:44:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The First Step to Success? Admit Failure]]></title>
-            <description><![CDATA[<article><h1>The First Step to Success? Admit Failure</h1><p>When former Medtronic CEO, Bill George, interviewed leadership candidates, he was interested in learning about both their failures and successes. After all, everyone has made mistakes on the job. But in George's mind, the best leaders are humble enough to recognize that they messed up, learn what not to do in the future, and develop resilience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6940e120b2c1285226e5b9220a6361270ea0e81.jpg"></article>]]></description>
-            <link>https://www.linkedin.com/today/post/article/20141118162607-117825785-the-first-step-to-success-admit-failure</link>
-            <guid isPermaLink="false">bd631e17-7cbc-4029-8e1e-b138d6461b60</guid>
-            <pubDate>Tue, 17 May 2016 05:40:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
