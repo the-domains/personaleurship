@@ -15,9 +15,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.7168459
+  saturation: 0.8046595
   brandStrength: 0.02071936102584004
-  lightness: 0.8476703
+  lightness: 0.9354839
   brandColors:
     - '#96CA2D'
     - '#B5E655'
@@ -26,5 +26,5 @@ color:
     - '#7FC6BC'
   rhythmicContrast: 0.8100358
 typography_spectrum: 0.3046595
-layout_spectrum: 0.5573477
+layout_spectrum: 0.6326165
 name: Personaleurship
