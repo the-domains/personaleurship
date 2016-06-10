@@ -1,7 +1,20 @@
+typography_spectrum: 0.14892948628403246
+color:
+  saturation: 0.8046595
+  brandStrength: 0.02071936102584004
+  lightness: 0.9354839
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  rhythmicContrast: 0.8100358
+layout_spectrum: 0.05912197311408818
 author:
   email: ksvarre@gmail.com
   name: Kristoffer R. Svarre
-title: What I Would Like You to Know
+name: Personaleurship
 collections:
   - index:
       path: /
@@ -14,17 +27,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.8046595
-  brandStrength: 0.02071936102584004
-  lightness: 0.9354839
-  brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  rhythmicContrast: 0.8100358
-typography_spectrum: 0.14892948628403246
-layout_spectrum: 0.05912197311408818
-name: Personaleurship
+title: What I Would Like You to Know
