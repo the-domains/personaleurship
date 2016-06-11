@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-06-11T08:50:37.853Z'
+datePublished: '2016-06-11T08:50:40.754Z'
 sourcePath: _posts/2016-05-16-this-is-what-charges-me.md
 author: []
-dateModified: '2016-06-11T08:50:37.453Z'
+dateModified: '2016-06-11T08:50:40.432Z'
 title: This Is How I Develop!
 description: >-
   I find my inspiration and motivation in articles and videos that you will find
   on this website. I will post links that have inspired, motivated or taught me
   something.
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
