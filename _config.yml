@@ -1,3 +1,16 @@
+layout_spectrum: 0.8996416
+typography_spectrum: 0.3135039440821856
+color:
+  saturation: 0.7187868368346244
+  brandStrength: 0.3153927286621183
+  lightness: 0.45816896902397275
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  rhythmicContrast: 0.7387788977939636
 author:
   email: ksvarre@gmail.com
   name: Kristoffer R. Svarre
@@ -17,19 +30,6 @@ collections:
     permalink:
       path: '/:title/'
 description: ''
-color:
-  saturation: 0.6415771
-  brandStrength: 0.02071936102584004
-  lightness: 1
-  brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  rhythmicContrast: 0.483871
-typography_spectrum: 0.8133163116872311
-layout_spectrum: 0.8996416
 navigation:
   - name: 'https://www.linkedin.com/in/ksvarre'
     url: LinkedIn Profile
