@@ -17,6 +17,10 @@ author:
   email: ksvarre@gmail.com
   name: Kristoffer R. Svarre
 name: Personaleurship
+navigation:
+  - name: LinkedIn Profile
+    url: LinkedIn Profile
+    type: external
 collections:
   - index:
       path: /
