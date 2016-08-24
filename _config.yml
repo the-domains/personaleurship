@@ -19,7 +19,7 @@ author:
   url: www.linkedin.com/in/ksvarre
 name: Personaleurship
 navigation:
-  - name: LinkedIn Profile
+  - name: 'https://www.linkedin.com/in/ksvarre'
     url: LinkedIn Profile
     type: external
 collections:
