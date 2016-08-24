@@ -1,21 +1,20 @@
 ---
-datePublished: '2016-08-24T07:57:04.825Z'
+datePublished: '2016-08-24T12:14:15.332Z'
 sourcePath: _posts/2016-05-16-this-is-what-charges-me.md
+inFeed: true
+hasPage: true
 author: []
-dateModified: '2016-08-24T07:57:04.364Z'
+via: {}
+dateModified: '2016-08-24T12:14:14.027Z'
 title: Think Like Me!
+publisher:
+  name: Kristoffer R. Svarre
+  url: 'https://www.linkedin.com/in/ksvarre'
 description: >-
   I find my inspiration and motivation in articles and videos that you will find
   on this website. I will post links that have inspired, motivated or taught me
   something.
-publisher:
-  name: Kristoffer R. Svarre
-  url: 'https://www.linkedin.com/in/ksvarre'
-via: {}
 starred: true
-inFeed: true
-hasPage: true
-inNav: false
 url: think-like-me/index.html
 _context: 'http://schema.org'
 _type: Article
