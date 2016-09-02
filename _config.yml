@@ -18,6 +18,12 @@ author:
   name: Kristoffer R. Svarre
   url: www.linkedin.com/in/ksvarre
 name: Personaleurship
+navigation:
+  - name: >-
+      The Artificial Intelligence Revolution: Part 2 - The AI Revolution: Our
+      Immortality or Extinction
+    id: 0d5239e1-98a1-43ca-b4cf-47e080e08b36
+    type: content
 collections:
   - index:
       path: /
