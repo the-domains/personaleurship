@@ -1,8 +1,22 @@
+typography_spectrum: 0.1577061
+color:
+  saturation: 0.2258064
+  brandStrength: 0.5
+  rhythmicContrast: 0.2598566
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  lightness: 1
+layout_spectrum: 0.9462366
+analytics:
+  google: UA-79126334-1
 author:
   email: ksvarre@gmail.com
   name: Kristoffer R. Svarre
   url: www.linkedin.com/in/ksvarre
-title: What I Would Like You to Know
 name: Personaleurship
 collections:
   - index:
@@ -16,23 +30,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: What I Would Like You to Know
 description: ''
-color:
-  saturation: 0.2258064
-  brandStrength: 0.5
-  rhythmicContrast: 0.2598566
-  brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  lightness: 1
-typography_spectrum: 0.1577061
-navigation:
-  - name: 'https://www.linkedin.com/in/ksvarre'
-    url: LinkedIn Profile
-    type: external
-analytics:
-  google: UA-79126334-1
-layout_spectrum: 0.9462366
