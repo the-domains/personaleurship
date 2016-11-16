@@ -1,34 +1,54 @@
-typography_spectrum: 0.1577061
+typography_spectrum: 0.015386416106438726
 color:
-  saturation: 0.2258064
-  brandStrength: 0.5
-  rhythmicContrast: 0.2598566
+  saturation: 0.5098992092212165
+  brandStrength: 0.6894309682280084
+  rhythmicContrast: 0.811784581720995
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-  lightness: 1
-layout_spectrum: 0.9462366
+    - '#000000'
+    - '#FFFFFF'
+    - '#725700'
+    - '#FC2E8D'
+    - '#E6B600'
+  lightness: 0.017951915895769208
+github: true
+layout_spectrum: 0.8206606353949386
 analytics:
   google: UA-79126334-1
 author:
   email: ksvarre@gmail.com
   name: Kristoffer R. Svarre
   url: www.linkedin.com/in/ksvarre
-name: Personaleurship
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68385434-71af-491e-b531-e9728345053e.png
+name: Think Like Me
+navigation:
+  - name: Technology & Science
+    url: 'http://ai.think-like.me'
+    type: external
+  - name: Motivation & Personal Development
+    url: 'http://development.think-like.me'
+    type: external
+  - name: 'Business, Innovation & Entrepreneurship'
+    url: 'http://business.think-like.me'
+    type: external
+  - name: About me
+    url: 'https://www.linkedin.com/in/ksvarre'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a1332d4-0f6d-4b3a-926c-78f49b82efa3.png
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: What I Would Like You to Know
-description: ''
+title: Think Like Me!
+content: []
+description: welcome to my blog. i will post about things i find interesting. enjoy.
+purpose: []
