@@ -4,9 +4,9 @@
         <description><![CDATA[Think Like Me!]]></description>
         <link>http://think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Feb 2017 03:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2017 23:39:38 GMT</lastBuildDate>
         <atom:link href="http://think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Feb 2017 03:28:19 GMT</pubDate>
+        <pubDate>Sun, 16 Apr 2017 23:39:22 GMT</pubDate>
         <item>
             <title><![CDATA[The First Step to Success? Admit Failure]]></title>
             <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6940e120b2c1285226e5b9220a6361270ea0e81.jpg"><h1>The First Step to Success? Admit Failure</h1><p>When former Medtronic CEO, Bill George, interviewed leadership candidates, he was interested in learning about both their failures and successes. After all, everyone has made mistakes on the job. But in George&apos;s mind, the best leaders are humble enough to recognize that they messed up, learn what not to do in the future, and develop resilience.</p></article>,<p><a href="https://www.linkedin.com/today/post/article/20141118162607-117825785-the-first-step-to-success-admit-failure" title="Read the full artcile here..">Read the full article here,,</a></p>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Wed, 16 Nov 2016 12:41:17 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Physicists Uncover Strange Numbers in Particle Collisions]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/83210574985e92d186111feacad259b2/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F11%2FXZ_ParticleCollision_1K.jpg"><h1>Physicists Uncover Strange Numbers in Particle Collisions</h1><p>At the Large Hadron Collider in Geneva, physicists shoot protons around a 17-mile track and smash them together at nearly the speed of light. It&apos;s one of the most finely tuned scientific experiments in the world, but when trying to make sense of the quantum debris, physicists begin with a strikingly simple tool called a Feynman diagram that&apos;s not that different from how a child would depict the situation.</p></article>,<p><a title="Full Article" href="https://www.wired.com/2016/11/physicists-uncover-strange-numbers-particle-collisions/">Click here to read the full article on WIRED</a></p>]]></description>
+            <link>http://think-like.me/physicists-uncover-strange-numbers-in-particle-collisions/index.html</link>
+            <guid isPermaLink="false">43dbf713-2466-4bb2-aa31-cd637a3f12a5</guid>
+            <pubDate>Sun, 16 Apr 2017 23:39:17 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How does the internet work?]]></title>
             <description><![CDATA[<h1>How does the internet work?</h1>,<article><h1>How Does the Internet Work?</h1><p>A slightly technical whitepaper explaining what makes the Internet tick.</p><img src="https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper_files/ruswp_diag5.gif"></article>]]></description>
             <link>https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm</link>
@@ -69,13 +76,6 @@
             <link>https://www.wired.com/brandlab/2017/01/sensor-based-economy/</link>
             <guid isPermaLink="false">dba721a1-3ee2-4957-89ad-1cec7648a681</guid>
             <pubDate>Wed, 08 Feb 2017 21:17:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machine Learning And Analytics: What's Your First Step?]]></title>
-            <description><![CDATA[<article><h1>Machine Learning And Analytics: What&apos;s Your First Step?</h1><p>Post written by Forbes Technology Council Successful CIOs, CTOs &amp; executives from Forbes Technology Council offer firsthand insights on tech &amp; business. Machine learning is a growing field, used in everything from the basics of anti-spam functions to the complexities of self-driving cars.</p><img src="http://specials-images.forbesimg.com/imageserve/568826797/640x434.jpg?fit=scale"></article>]]></description>
-            <link>http://www.forbes.com/sites/forbestechcouncil/2017/02/02/machine-learning-and-analytics-whats-your-first-step/#2425a16444ea</link>
-            <guid isPermaLink="false">033d6214-b402-476a-bbc8-0fba6e01f824</guid>
-            <pubDate>Thu, 02 Feb 2017 16:47:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
