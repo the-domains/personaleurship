@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-06-22T15:14:15.059Z'
-isBasedOnUrl: 'https://youtu.be/k6_QUhUPrF4'
+datePublished: '2017-04-16T23:59:27.294Z'
+sourcePath: _posts/2016-06-22-go-all-the-way-a-charles-bukowski-poem.md
+inFeed: true
 keywords:
   - bukowski
   - duration
@@ -17,7 +18,8 @@ author:
   - name: Willem Martinot
     url: 'https://www.youtube.com/user/wjmartinot'
     avatar: {}
-dateModified: '2016-06-22T14:30:47.958Z'
+via: {}
+dateModified: '2017-04-16T23:59:25.787Z'
 title: Go All The Way - a Charles Bukowski Poem
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=k6_QUhUPrF4&feature=applinks'
@@ -63,11 +65,10 @@ publisher:
   domain: youtu.be
 description: 'https://youtu.be/k6_QUhUPrF4'
 inLanguage: en
+hasPage: true
 starred: false
-sourcePath: _posts/2016-06-22-go-all-the-way-a-charles-bukowski-poem.md
-inFeed: true
-hasPage: false
-inNav: false
+datePublishedOriginal: '2016-11-16T12:54:30.822Z'
+url: go-all-the-way-a-charles-bukowski-poem/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
@@ -77,3 +78,5 @@ _type: VideoObject
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fk6_QUhUPrF4%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk6_QUhUPrF4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fk6_QUhUPrF4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 https://youtu.be/k6\_QUhUPrF4
+
+---
