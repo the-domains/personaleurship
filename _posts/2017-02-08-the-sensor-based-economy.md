@@ -30,8 +30,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.wired.com/brandlab/2017/01/sensor-based-economy/'
 title: The Sensor-Based Economy
-datePublished: '2017-04-16T23:45:53.020Z'
-dateModified: '2017-04-16T23:45:52.071Z'
+datePublished: '2017-04-16T23:59:27.308Z'
+dateModified: '2017-04-16T23:59:25.787Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-the-sensor-based-economy.md
