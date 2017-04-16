@@ -28,13 +28,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.wired.com/2017/01/ever-really-long-acid-trip-now-science-knows'
 title: Ever Had a Really Long Acid Trip? Now Science Knows Why
-datePublished: '2017-01-27T04:33:54.113Z'
-dateModified: '2017-01-27T04:33:29.321Z'
-datePublishedOriginal: '2017-01-27T04:33:54.113Z'
+datePublished: '2017-04-16T23:45:52.984Z'
+dateModified: '2017-04-16T23:45:52.071Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-27-ever-had-a-really-long-acid-trip-now-science-knows-why.md
+starred: false
+datePublishedOriginal: '2017-01-27T04:33:54.113Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
