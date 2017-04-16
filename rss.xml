@@ -4,9 +4,9 @@
         <description><![CDATA[Think Like Me!]]></description>
         <link>http://think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Apr 2017 23:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2017 23:46:10 GMT</lastBuildDate>
         <atom:link href="http://think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Apr 2017 23:41:01 GMT</pubDate>
+        <pubDate>Sun, 16 Apr 2017 23:46:03 GMT</pubDate>
         <item>
             <title><![CDATA[The First Step to Success? Admit Failure]]></title>
             <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6940e120b2c1285226e5b9220a6361270ea0e81.jpg"><h1>The First Step to Success? Admit Failure</h1><p>When former Medtronic CEO, Bill George, interviewed leadership candidates, he was interested in learning about both their failures and successes. After all, everyone has made mistakes on the job. But in George&apos;s mind, the best leaders are humble enough to recognize that they messed up, learn what not to do in the future, and develop resilience.</p></article>,<p><a href="https://www.linkedin.com/today/post/article/20141118162607-117825785-the-first-step-to-success-admit-failure" title="Read the full artcile here..">Read the full article here,,</a></p>]]></description>
@@ -43,18 +43,32 @@
             <pubDate>Thu, 10 Nov 2016 16:24:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Quick, Draw!]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/35bd86bddc1eb7fb62f1892b03d7ba11/noop.png?input=https%3A%2F%2Fquickdraw.withgoogle.com%2Fstatic%2Fshareimg.png"><h1>Quick, Draw!</h1><p>Can a neural network learn to recognize doodles? See how well it does with your drawings and help teach it, just by playing.</p></article>]]></description>
-            <link>http://think-like.me/quick-draw/index.html</link>
-            <guid isPermaLink="false">654e84ab-4b00-4356-b854-c08664589093</guid>
-            <pubDate>Wed, 16 Nov 2016 12:41:17 GMT</pubDate>
+            <title><![CDATA[Google's DeepMind: What can these battling AIs tell us about human behavior? | ZDNet]]></title>
+            <description><![CDATA[<article><h1>Google&apos;s DeepMind: What can these battling AIs tell us about human behavior? | ZDNet</h1><p>Image: Google DeepMind/YouTube Scientists at Google-owned DeepMind have found its AIs behave almost the way humans do when faced with scarce resources. In a new study, DeepMind scientists plugged its AI agents, trained with deep reinforcement learning, into two multi-agent 2D games to model how conflict or cooperation emerges between selfish participants in a theoretical economy.</p><img src="http://zdnet4.cbsistatic.com/hub/i/r/2017/02/10/a81c6328-f21b-4a28-a666-d9ab70639fa8/thumbnail/770x578/aeae44f3a4fac36d27b40ecfb7efadb7/google-buys-artificial-intelligence-firm-deepmind.png"></article>]]></description>
+            <link>http://www.zdnet.com/article/googles-deepmind-what-can-these-battling-ais-tell-us-about-human-behavior/</link>
+            <guid isPermaLink="false">4eb13414-e635-4d28-adb8-b9feab2a9ca9</guid>
+            <pubDate>Fri, 10 Feb 2017 16:42:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The data revolution]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/cc857c92a4320bc732414c4ca5fb6c72/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F10%2F2-the-data-chain-3_no-logo.jpg%26h%3D827"><h1>The data revolution</h1><p>The internet was a revolution because it reorganized a large part of the economy and society around the network structure, becoming a fantastic medium for commerce, finance, power and culture. It also definitely changed our perception of time and space. We now live in a globalized and connected world where information flows at the speed of light.</p></article>,<p><a title="" href="https://techcrunch.com/2016/10/06/the-data-revolution">Click here to read the full article on TechCrunch</a></p>]]></description>
-            <link>http://think-like.me/the-data-revolution/index.html</link>
-            <guid isPermaLink="false">5320fbc0-571f-48a7-88be-c16577c415d5</guid>
-            <pubDate>Sun, 16 Apr 2017 23:40:59 GMT</pubDate>
+            <title><![CDATA[The Sensor-Based Economy]]></title>
+            <description><![CDATA[<article><h1>The Sensor-Based Economy</h1><p>The tiny electronic sensor is having a big impact on our lives. Every moment of every day these small but essential tech workhorses turn streams of data into life-changing decisions. The benefits can be enormous. In recent years, sensors have made their greatest mark as the spark plug in the engine of the Internet of...</p><img src="https://assets.wired.com/photos/w_2064/wp-content/uploads/2017/01/GettyImages-184286481.jpg"></article>]]></description>
+            <link>https://www.wired.com/brandlab/2017/01/sensor-based-economy/</link>
+            <guid isPermaLink="false">dba721a1-3ee2-4957-89ad-1cec7648a681</guid>
+            <pubDate>Wed, 08 Feb 2017 21:17:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Machine Learning And Analytics: What's Your First Step?]]></title>
+            <description><![CDATA[<article><h1>Machine Learning And Analytics: What&apos;s Your First Step?</h1><p>Post written by Forbes Technology Council Successful CIOs, CTOs &amp; executives from Forbes Technology Council offer firsthand insights on tech &amp; business. Machine learning is a growing field, used in everything from the basics of anti-spam functions to the complexities of self-driving cars.</p><img src="http://specials-images.forbesimg.com/imageserve/568826797/640x434.jpg?fit=scale"></article>]]></description>
+            <link>http://www.forbes.com/sites/forbestechcouncil/2017/02/02/machine-learning-and-analytics-whats-your-first-step/#2425a16444ea</link>
+            <guid isPermaLink="false">033d6214-b402-476a-bbc8-0fba6e01f824</guid>
+            <pubDate>Thu, 02 Feb 2017 16:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ever Had a Really Long Acid Trip? Now Science Knows Why]]></title>
+            <description><![CDATA[<article><h1>Ever Had a Really Long Acid Trip? Now Science Knows Why</h1><p>Few tropes in modern America are as enduring as the LSD Trip Gone Far Too Long. It should all be over after a few hours, right? OK maybe not. Eight? Ten? Probably should have cleared more of my calendar.</p><img src="https://www.wired.com/wp-content/uploads/2017/01/LSDHP-1200x630-e1485389290789.jpg"></article>]]></description>
+            <link>https://www.wired.com/2017/01/ever-really-long-acid-trip-now-science-knows</link>
+            <guid isPermaLink="false">c71dea90-d240-4f45-9f0d-19aa68bee563</guid>
+            <pubDate>Fri, 27 Jan 2017 04:33:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Physicists Uncover Strange Numbers in Particle Collisions]]></title>
@@ -62,20 +76,6 @@
             <link>http://think-like.me/physicists-uncover-strange-numbers-in-particle-collisions/index.html</link>
             <guid isPermaLink="false">43dbf713-2466-4bb2-aa31-cd637a3f12a5</guid>
             <pubDate>Sun, 16 Apr 2017 23:39:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How does the internet work?]]></title>
-            <description><![CDATA[<h1>How does the internet work?</h1>,<article><h1>How Does the Internet Work?</h1><p>A slightly technical whitepaper explaining what makes the Internet tick.</p><img src="https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper_files/ruswp_diag5.gif"></article>]]></description>
-            <link>https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm</link>
-            <guid isPermaLink="false">ffcf8ebc-6e72-47d1-97bf-52636d741e65</guid>
-            <pubDate>Fri, 24 Feb 2017 03:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's DeepMind: What can these battling AIs tell us about human behavior? | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Google&apos;s DeepMind: What can these battling AIs tell us about human behavior? | ZDNet</h1><p>Image: Google DeepMind/YouTube Scientists at Google-owned DeepMind have found its AIs behave almost the way humans do when faced with scarce resources. In a new study, DeepMind scientists plugged its AI agents, trained with deep reinforcement learning, into two multi-agent 2D games to model how conflict or cooperation emerges between selfish participants in a theoretical economy.</p><img src="http://zdnet4.cbsistatic.com/hub/i/r/2017/02/10/a81c6328-f21b-4a28-a666-d9ab70639fa8/thumbnail/770x578/aeae44f3a4fac36d27b40ecfb7efadb7/google-buys-artificial-intelligence-firm-deepmind.png"></article>]]></description>
-            <link>http://www.zdnet.com/article/googles-deepmind-what-can-these-battling-ais-tell-us-about-human-behavior/</link>
-            <guid isPermaLink="false">4eb13414-e635-4d28-adb8-b9feab2a9ca9</guid>
-            <pubDate>Fri, 10 Feb 2017 16:42:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
