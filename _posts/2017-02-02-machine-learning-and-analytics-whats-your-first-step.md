@@ -30,8 +30,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.forbes.com/sites/forbestechcouncil/2017/02/02/machine-learning-and-analytics-whats-your-first-step/#2425a16444ea
 title: 'Machine Learning And Analytics: What''s Your First Step?'
-datePublished: '2017-04-16T23:45:53.013Z'
-dateModified: '2017-04-16T23:45:52.071Z'
+datePublished: '2017-04-16T23:59:27.315Z'
+dateModified: '2017-04-16T23:59:25.787Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-02-machine-learning-and-analytics-whats-your-first-step.md
