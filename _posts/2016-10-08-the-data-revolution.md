@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-16T23:45:53.027Z'
+datePublished: '2017-04-16T23:59:27.293Z'
 sourcePath: _posts/2016-10-08-the-data-revolution.md
 inFeed: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://techcrunch.com/contributor/jean-baptiste-dumont/'
     avatar: {}
 via: {}
-dateModified: '2017-04-16T23:45:52.071Z'
+dateModified: '2017-04-16T23:59:25.787Z'
 title: The data revolution
 app_links:
   - path: 'http/https://techcrunch.com/2016/10/06/the-data-revolution/'
