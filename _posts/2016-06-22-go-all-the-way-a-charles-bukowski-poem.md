@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-16T23:59:27.294Z'
+datePublished: '2017-04-17T00:16:58.579Z'
 sourcePath: _posts/2016-06-22-go-all-the-way-a-charles-bukowski-poem.md
 inFeed: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/wjmartinot'
     avatar: {}
 via: {}
-dateModified: '2017-04-16T23:59:25.787Z'
+dateModified: '2017-04-17T00:16:58.008Z'
 title: Go All The Way - a Charles Bukowski Poem
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=k6_QUhUPrF4&feature=applinks'
