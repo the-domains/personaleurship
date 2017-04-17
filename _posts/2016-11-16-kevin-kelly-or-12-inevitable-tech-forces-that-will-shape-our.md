@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-16T23:45:53.038Z'
+datePublished: '2017-04-16T23:59:27.314Z'
 sourcePath: >-
   _posts/2016-11-16-kevin-kelly-or-12-inevitable-tech-forces-that-will-shape-our.md
 inFeed: true
@@ -11,7 +11,7 @@ author:
     url: 'https://www.youtube.com/user/sxsw'
     avatar: {}
 via: {}
-dateModified: '2017-04-16T23:45:52.071Z'
+dateModified: '2017-04-16T23:59:25.787Z'
 title: >-
   Kevin Kelly | 12 Inevitable Tech Forces That Will Shape Our Future | SXSW
   Interactive 2016
