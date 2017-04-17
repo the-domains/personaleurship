@@ -38,15 +38,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/51213261'
 title: What if money were no object
-datePublished: '2016-05-16T18:19:51.693Z'
-dateModified: '2016-05-16T18:12:20.674Z'
-starred: false
+datePublished: '2017-04-16T23:59:27.272Z'
+dateModified: '2017-04-16T23:59:25.787Z'
 sourcePath: _posts/2016-05-16-what-if-money-were-no-object.md
+via: {}
 inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+datePublishedOriginal: '2016-10-08T09:54:00.018Z'
+url: what-if-money-were-no-object/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
