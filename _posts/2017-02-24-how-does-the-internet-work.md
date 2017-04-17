@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-04-16T23:59:27.304Z'
+datePublished: '2017-04-17T00:16:58.427Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-04-16T23:59:25.787Z'
+dateModified: '2017-04-17T00:16:58.008Z'
 title: How does the internet work?
 publisher: {}
 description: A slightly technical whitepaper explaining what makes the Internet tick.
