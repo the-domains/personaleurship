@@ -34,8 +34,8 @@ isBasedOnUrl: >-
 title: >-
   Google's DeepMind: What can these battling AIs tell us about human behavior? |
   ZDNet
-datePublished: '2017-04-17T00:16:58.501Z'
-dateModified: '2017-04-17T00:16:58.008Z'
+datePublished: '2017-04-17T00:21:35.720Z'
+dateModified: '2017-04-17T00:21:35.427Z'
 via: {}
 inFeed: true
 sourcePath: >-
