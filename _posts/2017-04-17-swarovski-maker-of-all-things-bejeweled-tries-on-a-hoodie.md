@@ -47,14 +47,14 @@ app_links:
     namespace: google
     type: android
 title: 'Swarovski, Maker of All Things Bejeweled, Tries On a Hoodie'
-datePublished: '2017-04-17T00:04:42.739Z'
-dateModified: '2017-04-17T00:04:41.929Z'
+datePublished: '2017-04-17T00:16:58.489Z'
+dateModified: '2017-04-17T00:16:58.008Z'
 via: {}
 inFeed: true
 hasPage: true
+sourcePath: _posts/2017-04-17-swarovski-maker-of-all-things-bejeweled-tries-on-a-hoodie.md
 starred: false
 datePublishedOriginal: '2017-04-17T00:04:42.739Z'
-sourcePath: _posts/2017-04-17-swarovski-maker-of-all-things-bejeweled-tries-on-a-hoodie.md
 url: swarovski-maker-of-all-things-bejeweled-tries-on-a-hoodie/index.html
 _context: 'http://schema.org'
 _type: MediaObject
