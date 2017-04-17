@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Raad Ahmed
-    url: 'https://medium.com/@r44d'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-  domain: medium.com
+datePublished: '2017-04-16T23:59:27.314Z'
+sourcePath: >-
+  _posts/2016-05-17-how-to-eliminate-90-of-your-regret-and-anxiety-by-thinking.md
+inFeed: true
+hasPage: true
 keywords:
   - pain
   - emotions
@@ -20,8 +15,16 @@ keywords:
   - worthwhile
   - marcus
   - write
-description: 'Do you know what Steve Jobs, John D. Rockefeller, Amelia Earhart, and Ulysses S. Grant have in common? They each possessed the talent of turning obstacles into opportunities drawn from the Stoic ideologies of Roman Emperor, Marcus Aurelius.'
-inLanguage: en
+related: []
+author:
+  - name: Raad Ahmed
+    url: 'https://medium.com/@r44d'
+    avatar: {}
+via: {}
+dateModified: '2017-04-16T23:59:25.787Z'
+title: >-
+  How To Eliminate 90% Of Your Regret And Anxiety By Thinking Like A Roman
+  Emperor - The Autodidact Polyhistor
 app_links:
   - type: android
     namespace: ai
@@ -35,7 +38,8 @@ app_links:
   - url: 'medium://p/821e8c90581'
     type: android
     namespace: ai
-  - url: 'https://medium.com/startups-personal-growth-productivity/how-i-eliminated-90-of-my-regret-and-anxiety-by-thinking-like-a-roman-emperor-821e8c90581'
+  - url: >-
+      https://medium.com/startups-personal-growth-productivity/how-i-eliminated-90-of-my-regret-and-anxiety-by-thinking-like-a-roman-emperor-821e8c90581
     type: web
     namespace: ai
   - url: 'medium://p/821e8c90581'
@@ -47,17 +51,25 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
-title: 'How To Eliminate 90% Of Your Regret And Anxiety By Thinking Like A Roman Emperor - The Autodidact Polyhistor'
-datePublished: '2016-05-17T15:58:18.804Z'
-dateModified: '2016-05-17T15:57:35.119Z'
+publisher:
+  url: 'https://medium.com'
+  name: Medium
+  favicon: >-
+    https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico
+  domain: medium.com
+description: Read the full article here..
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-05-17-how-to-eliminate-90-of-your-regret-and-anxiety-by-thinking.md
-inFeed: true
-hasPage: true
-inNav: false
+datePublishedOriginal: '2016-11-10T16:35:47.592Z'
 url: how-to-eliminate-90-of-your-regret-and-anxiety-by-thinking/index.html
-_type: Article
 _context: 'http://schema.org'
+_type: Article
 
 ---
-<article style=""><h1>How To Eliminate 90% Of Your Regret And Anxiety By Thinking Like A Roman Emperor - The Autodidact Polyhistor</h1><p>Do you know what Steve Jobs, John D. Rockefeller, Amelia Earhart, and Ulysses S. Grant have in common? They each possessed the talent of turning obstacles into opportunities drawn from the Stoic ideologies of Roman Emperor, Marcus Aurelius.</p><img src="https://cdn-images-2.medium.com/max/1200/1*QWvae3qAzrjFJyU_CnPc6g.jpeg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87e1d3750281c6006edb0bfd091accf1695fcd10.jpg" /><h1>How To Eliminate 90% Of Your Regret And Anxiety By Thinking Like A Roman Emperor - The Autodidact Polyhistor</h1><p>Do you know what Steve Jobs, John D. Rockefeller, Amelia Earhart, and Ulysses S. Grant have in common? They each possessed the talent of turning obstacles into opportunities drawn from the Stoic ideologies of Roman Emperor, Marcus Aurelius.</p></article>
+
+---
+
+[Read the full article here..][0]
+
+[0]: https://medium.com/startups-personal-growth-productivity/how-i-eliminated-90-of-my-regret-and-anxiety-by-thinking-like-a-roman-emperor-821e8c90581#.r3p68jjjb "Read the full article here.."
