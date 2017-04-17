@@ -13,8 +13,8 @@ keywords: []
 description: Click here to read the full article on WIRED
 app_links: []
 title: Physicists Uncover Strange Numbers in Particle Collisions
-datePublished: '2017-04-17T00:16:58.448Z'
-dateModified: '2017-04-17T00:16:58.008Z'
+datePublished: '2017-04-17T00:21:35.727Z'
+dateModified: '2017-04-17T00:21:35.427Z'
 via: {}
 inFeed: true
 hasPage: true
