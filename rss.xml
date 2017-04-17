@@ -4,9 +4,9 @@
         <description><![CDATA[Think Like Me!]]></description>
         <link>http://think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Apr 2017 00:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2017 00:04:48 GMT</lastBuildDate>
         <atom:link href="http://think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Apr 2017 23:59:50 GMT</pubDate>
+        <pubDate>Mon, 17 Apr 2017 00:04:44 GMT</pubDate>
         <item>
             <title><![CDATA[How to Influence People with Your Ideas]]></title>
             <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/083c1bf09767aa5b8fbeb70139d0f4baa221554e.jpg"><h1>How to Influence People with Your Ideas</h1><p>She asked me: What do I have to do to get my idea out there? Should I blog and tweet? Write a book? Conduct a survey? Try for TEDx? Lead a seminar? In what combination? In what order?</p></article>,<p><a href="https://hbr.org/2013/04/how-to-influence-people-with-y" title="Read the full article here..">Read the full article here..</a></p>]]></description>
@@ -20,6 +20,13 @@
             <link>http://think-like.me/theres-no-such-thing-as-free-will/index.html</link>
             <guid isPermaLink="false">b6c90514-f3da-4f8f-89df-6ab38364e42c</guid>
             <pubDate>Thu, 10 Nov 2016 16:24:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swarovski, Maker of All Things Bejeweled, Tries On a Hoodie]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1fd78eb0a72c4f85bc06eb023acc1474/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F10%2F09%2Fbusiness%2F09swarovski-slide-8Y1N%2F09swarovski-slide-8Y1N-facebookJumbo.jpg"><h1>Swarovski, Maker of All Things Bejeweled, Tries On a Hoodie</h1><p>&quot;One hundred and twenty years ago, we were the Google of the age,&quot; said Taro Nordheider, a Swarovski executive vice president who was hired five years ago from McKinsey &amp; Company to help with the company&apos;s transformation. Over the decades, the company shifted with the times.</p></article>,<p><a title="" href="https://www.nytimes.com/2016/10/09/technology/swarovski-maker-of-all-things-bejeweled-tries-on-a-hoodie.html?_r=0">Read the full article on Nytimes by clicking this link</a></p>]]></description>
+            <link>http://think-like.me/swarovski-maker-of-all-things-bejeweled-tries-on-a-hoodie/index.html</link>
+            <guid isPermaLink="false">120c2266-4f10-42a3-8ba4-e6c15fa800ff</guid>
+            <pubDate>Mon, 17 Apr 2017 00:04:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Physicists Uncover Strange Numbers in Particle Collisions]]></title>
@@ -69,13 +76,6 @@
             <link>http://www.forbes.com/sites/forbestechcouncil/2017/02/02/machine-learning-and-analytics-whats-your-first-step/#2425a16444ea</link>
             <guid isPermaLink="false">033d6214-b402-476a-bbc8-0fba6e01f824</guid>
             <pubDate>Thu, 02 Feb 2017 16:47:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ever Had a Really Long Acid Trip? Now Science Knows Why]]></title>
-            <description><![CDATA[<article><h1>Ever Had a Really Long Acid Trip? Now Science Knows Why</h1><p>Few tropes in modern America are as enduring as the LSD Trip Gone Far Too Long. It should all be over after a few hours, right? OK maybe not. Eight? Ten? Probably should have cleared more of my calendar.</p><img src="https://www.wired.com/wp-content/uploads/2017/01/LSDHP-1200x630-e1485389290789.jpg"></article>]]></description>
-            <link>https://www.wired.com/2017/01/ever-really-long-acid-trip-now-science-knows</link>
-            <guid isPermaLink="false">c71dea90-d240-4f45-9f0d-19aa68bee563</guid>
-            <pubDate>Fri, 27 Jan 2017 04:33:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
