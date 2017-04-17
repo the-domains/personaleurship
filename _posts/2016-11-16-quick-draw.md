@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-16T23:45:53.038Z'
+datePublished: '2017-04-16T23:59:27.263Z'
 sourcePath: _posts/2016-11-16-quick-draw.md
 inFeed: true
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-04-16T23:45:52.071Z'
+dateModified: '2017-04-16T23:59:25.787Z'
 title: 'Quick, Draw!'
 app_links: []
 publisher:
