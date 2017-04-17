@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-17T00:16:58.583Z'
+datePublished: '2017-04-17T00:21:35.719Z'
 sourcePath: >-
   _posts/2016-05-16-you-wont-believe-the-effect-the-internets-having-on-your-b.md
 inFeed: true
@@ -8,7 +8,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2017-04-17T00:16:58.008Z'
+dateModified: '2017-04-17T00:21:35.427Z'
 title: >-
   You Won't Believe The Effect The Internet's Having On Your Brain. Actually,
   You Will.
