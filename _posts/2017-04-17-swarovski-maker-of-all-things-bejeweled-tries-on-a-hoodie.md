@@ -47,8 +47,8 @@ app_links:
     namespace: google
     type: android
 title: 'Swarovski, Maker of All Things Bejeweled, Tries On a Hoodie'
-datePublished: '2017-04-17T00:16:58.489Z'
-dateModified: '2017-04-17T00:16:58.008Z'
+datePublished: '2017-04-17T00:21:35.769Z'
+dateModified: '2017-04-17T00:21:35.427Z'
 via: {}
 inFeed: true
 hasPage: true
