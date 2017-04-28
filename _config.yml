@@ -49,6 +49,31 @@ collections:
       format: rss
       number: 10
 title: Think Like Me!
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d028ee984a52904f170dcfe7b36b262b3143590.jpg">
+    src: >-
+      https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d028ee984a52904f170dcfe7b36b262b3143590.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://s3-us-west-2.amazonaws.com'
+        name: .s3-us-west-2.amazonaws.com
+        favicon: null
+        domain: s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: welcome to my blog. i will post about things i find interesting. enjoy.
 purpose: []
