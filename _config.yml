@@ -1,16 +1,16 @@
-layout_spectrum: 0.1398878068037995
-typography_spectrum: 0.014979760307671116
+layout_spectrum: 0.6175194445152832
+typography_spectrum: 0.017875842441076248
 color:
-  saturation: 0.5042431323378725
-  brandStrength: 0.6850068103759043
-  rhythmicContrast: 0.8155349829473008
+  saturation: 0.5052946642027375
+  brandStrength: 0.6886899777703762
+  rhythmicContrast: 0.8108088130328694
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#725700'
     - '#FC2E8D'
     - '#E6B600'
-  lightness: 0.01198749865700334
+  lightness: 0.013177471823142013
 github: true
 analytics:
   google: UA-79126334-1
@@ -67,7 +67,6 @@ content:
         domain: s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
