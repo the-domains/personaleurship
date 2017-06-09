@@ -1,9 +1,9 @@
 ---
-datePublished: '2017-06-09T06:20:09.198Z'
+datePublished: '2017-06-09T16:15:33.493Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-06-09T06:20:08.456Z'
+dateModified: '2017-06-09T16:15:33.117Z'
 title: How does the internet work?
 publisher: {}
 description: Click here for full whitepaper
@@ -17,7 +17,7 @@ _type: Article
 ---
 # How does the internet work?
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/06a601e81f298f605fb060d3d02ddcf5/noop.gif?input=https%3A%2F%2Fweb.stanford.edu%2Fclass%2Fmsande91si%2Fwww-spr04%2Freadings%2Fweek1%2FInternetWhitepaper_files%2Fruswp_diag5.gif" /><h1>How Does the Internet Work?</h1><p>A slightly technical whitepaper explaining what makes the Internet tick.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa956fddf4fda06bd13640dcd03c976a3a312662.gif" /><h1>How Does the Internet Work?</h1><p>A slightly technical whitepaper explaining what makes the Internet tick.</p></article>
 
 [Click here for full whitepaper][0]
 
