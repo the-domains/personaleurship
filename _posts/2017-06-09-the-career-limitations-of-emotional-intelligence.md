@@ -40,18 +40,18 @@ description: >-
   much since.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.fastcompany.com/3060123/how-to-be-a-success-at-everything/the-career-limitations-of-emotional-intelligence?partner=rss#/web/sources/806307389
 title: The Career Limitations Of Emotional Intelligence
-datePublished: '2017-06-09T06:34:49.589Z'
-dateModified: '2017-06-09T06:34:48.706Z'
+datePublished: '2017-06-09T16:16:27.403Z'
+dateModified: '2017-06-09T16:16:27.007Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-09-the-career-limitations-of-emotional-intelligence.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-09T06:34:02.753Z'
+url: the-career-limitations-of-emotional-intelligence/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Career Limitations Of Emotional Intelligence</h1><p>Surely by now you've heard: Highly emotionally intelligent people are more successful, and companies are bending over backward to recruit them. The term "emotional intelligence" (often abbreviated to EQ or EI) was first coined by the psychologist and former New York Times journalist Daniel Goleman in 1995, and while it's had its critics, the term's buzzword status hasn't relented much since.</p><img src="http://d.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2016/05/3060123-poster-p-1-how-to-be-a-success-at-everythingthe-career-limitations-of-emotional-intelligence.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c2e77828f635ff5bb36cc3c2cd11a3c6303b862.jpg" /><h1>The Career Limitations Of Emotional Intelligence</h1><p>Surely by now you've heard: Highly emotionally intelligent people are more successful, and companies are bending over backward to recruit them. The term "emotional intelligence" (often abbreviated to EQ or EI) was first coined by the psychologist and former New York Times journalist Daniel Goleman in 1995, and while it's had its critics, the term's buzzword status hasn't relented much since.</p></article>
