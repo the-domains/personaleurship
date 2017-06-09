@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-04-17T00:21:35.771Z'
+datePublished: '2017-06-09T06:20:03.219Z'
 sourcePath: _posts/2016-05-17-how-to-influence-people-with-your-ideas.md
 inFeed: true
 hasPage: true
@@ -19,7 +19,7 @@ author:
   - name: John Butman
     url: 'https://hbr.org/search?term=john+butman'
 via: {}
-dateModified: '2017-04-17T00:21:35.427Z'
+dateModified: '2017-06-09T06:20:02.458Z'
 title: How to Influence People with Your Ideas
 app_links: []
 publisher:
