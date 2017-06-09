@@ -22,19 +22,19 @@ app_links:
     package: com.aol.mobile.techcrunch
     namespace: google
     type: android
-isBasedOnUrl: >-
-  https://techcrunch.com/2016/01/31/digital-transformation-requires-total-organizational-commitment/
 title: Digital Transformation Requires Total Organizational Commitment
-datePublished: '2017-06-09T06:34:49.599Z'
-dateModified: '2017-06-09T06:34:48.706Z'
+datePublished: '2017-06-09T16:24:15.099Z'
+dateModified: '2017-06-09T16:24:14.737Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-06-09-digital-transformation-requires-total-organizational-commitm.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-09T06:31:08.820Z'
+url: digital-transformation-requires-total-organizational-commitm/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Digital Transformation Requires Total Organizational Commitment</h1><p>By now you've surely heard that moving forward, every company will be a software company, and that shift is happening now as companies large and small scramble to transform into digitally-driven organizations. Wherever you turn, businesses are facing tremendous disruptive pressure.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/01/shutterstock_127574942.jpg?w=764&amp;h=400&amp;crop=1" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/988445ff812e4d004aea2e7b76106818/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F01%2Fshutterstock_127574942.jpg%26h%3D400%26crop%3D1" /><h1>Digital Transformation Requires Total Organizational Commitment</h1><p>By now you've surely heard that moving forward, every company will be a software company, and that shift is happening now as companies large and small scramble to transform into digitally-driven organizations. Wherever you turn, businesses are facing tremendous disruptive pressure.</p></article>
