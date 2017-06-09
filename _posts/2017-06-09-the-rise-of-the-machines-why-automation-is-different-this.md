@@ -1,7 +1,8 @@
 ---
 isBasedOnUrl: 'https://www.youtube.com/watch?v=WSKi8HfcxEk'
 title: The Rise of the Machines - Why Automation is Different this Time
-dateModified: '2017-06-09T06:14:18.954Z'
+datePublished: '2017-06-09T06:20:03.223Z'
+dateModified: '2017-06-09T06:20:02.458Z'
 publisher: {}
 author:
   - name: Kurzgesagt – In a Nutshell
@@ -10,8 +11,7 @@ author:
 inFeed: true
 description: Automation in the Information Age is different.
 via: {}
-datePublished: '2017-06-09T06:14:49.497Z'
-starred: false
+starred: true
 datePublishedOriginal: '2017-06-09T06:14:49.497Z'
 sourcePath: _posts/2017-06-09-the-rise-of-the-machines-why-automation-is-different-this.md
 _type: Article
