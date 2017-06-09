@@ -4,9 +4,9 @@
         <description><![CDATA[Think Like Me!]]></description>
         <link>http://think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 17 Apr 2017 00:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2017 06:14:51 GMT</lastBuildDate>
         <atom:link href="http://think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Apr 2017 00:21:44 GMT</pubDate>
+        <pubDate>Fri, 09 Jun 2017 06:14:50 GMT</pubDate>
         <item>
             <title><![CDATA[The Sensor-Based Economy]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/87ccf487fc82e8f93055a25e35c85b26/noop.jpg?input=https%3A%2F%2Fassets.wired.com%2Fphotos%2Fw_2064%2Fwp-content%2Fuploads%2F2017%2F01%2FGettyImages-184286481.jpg"><h1>The Sensor-Based Economy</h1><p>The tiny electronic sensor is having a big impact on our lives. Every moment of every day these small but essential tech workhorses turn streams of data into life-changing decisions. The benefits can be enormous. In recent years, sensors have made their greatest mark as the spark plug in the engine of the Internet of...</p></article>,<p><a title="" href="https://www.wired.com/brandlab/2017/01/sensor-based-economy/">Read the full article on WIRED</a></p>]]></description>
@@ -34,6 +34,13 @@
             <link>http://think-like.me/theres-no-such-thing-as-free-will/index.html</link>
             <guid isPermaLink="false">b6c90514-f3da-4f8f-89df-6ab38364e42c</guid>
             <pubDate>Thu, 10 Nov 2016 16:24:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Rise of the Machines - Why Automation is Different this Time]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWSKi8HfcxEk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWSKi8HfcxEk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWSKi8HfcxEk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=WSKi8HfcxEk</link>
+            <guid isPermaLink="false">b9201b09-337d-407d-b679-08deae700f28</guid>
+            <pubDate>Fri, 09 Jun 2017 06:14:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Swarovski, Maker of All Things Bejeweled, Tries On a Hoodie]]></title>
@@ -69,13 +76,6 @@
             <link>http://think-like.me/you-wont-believe-the-effect-the-internets-having-on-your-b/index.html</link>
             <guid isPermaLink="false">80f21137-5fac-4aed-ad8f-b9093a6c92f2</guid>
             <pubDate>Thu, 10 Nov 2016 16:23:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google's DeepMind: What can these battling AIs tell us about human behavior? | ZDNet]]></title>
-            <description><![CDATA[<article><h1>Google&apos;s DeepMind: What can these battling AIs tell us about human behavior? | ZDNet</h1><p>Image: Google DeepMind/YouTube Scientists at Google-owned DeepMind have found its AIs behave almost the way humans do when faced with scarce resources. In a new study, DeepMind scientists plugged its AI agents, trained with deep reinforcement learning, into two multi-agent 2D games to model how conflict or cooperation emerges between selfish participants in a theoretical economy.</p><img src="http://zdnet4.cbsistatic.com/hub/i/r/2017/02/10/a81c6328-f21b-4a28-a666-d9ab70639fa8/thumbnail/770x578/aeae44f3a4fac36d27b40ecfb7efadb7/google-buys-artificial-intelligence-firm-deepmind.png"></article>]]></description>
-            <link>http://www.zdnet.com/article/googles-deepmind-what-can-these-battling-ais-tell-us-about-human-behavior/</link>
-            <guid isPermaLink="false">4eb13414-e635-4d28-adb8-b9feab2a9ca9</guid>
-            <pubDate>Fri, 10 Feb 2017 16:42:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
