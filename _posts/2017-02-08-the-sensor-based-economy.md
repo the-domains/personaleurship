@@ -24,8 +24,8 @@ description: Read the full article on WIRED
 inLanguage: en
 app_links: []
 title: The Sensor-Based Economy
-datePublished: '2017-04-17T00:21:35.769Z'
-dateModified: '2017-04-17T00:21:35.427Z'
+datePublished: '2017-06-09T06:20:09.205Z'
+dateModified: '2017-06-09T06:20:08.456Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-08-the-sensor-based-economy.md
