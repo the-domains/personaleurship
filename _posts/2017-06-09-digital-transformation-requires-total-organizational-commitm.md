@@ -25,14 +25,14 @@ app_links:
 isBasedOnUrl: >-
   https://techcrunch.com/2016/01/31/digital-transformation-requires-total-organizational-commitment/
 title: Digital Transformation Requires Total Organizational Commitment
-datePublished: '2017-06-09T06:31:08.820Z'
-dateModified: '2016-11-21T08:04:15.040Z'
+datePublished: '2017-06-09T06:34:49.599Z'
+dateModified: '2017-06-09T06:34:48.706Z'
 via: {}
 inFeed: true
-starred: false
-datePublishedOriginal: '2017-06-09T06:31:08.820Z'
 sourcePath: >-
   _posts/2017-06-09-digital-transformation-requires-total-organizational-commitm.md
+starred: false
+datePublishedOriginal: '2017-06-09T06:31:08.820Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
