@@ -1,26 +1,30 @@
+name: Think Like Me
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9e985e1-7831-41ec-aba7-58fabf799d41.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51a61f8a-cff4-42cc-bbb4-4ea5beb5b733.png
 layout_spectrum: 0.6175194445152832
 typography_spectrum: 0.017875842441076248
+analytics:
+  google: UA-79126334-1
 color:
-  saturation: 0.5052946642027375
-  brandStrength: 0.6886899777703762
-  rhythmicContrast: 0.8108088130328694
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#725700'
     - '#FC2E8D'
     - '#E6B600'
+  brandStrength: 0.6886899777703762
   lightness: 0.013177471823142013
-github: true
-analytics:
-  google: UA-79126334-1
+  saturation: 0.5052946642027375
+  rhythmicContrast: 0.8108088130328694
+purpose: []
+title: Think Like Me!
+description: welcome to my blog. i will post about things i find interesting. enjoy.
 author:
-  email: ksvarre@gmail.com
   name: Kristoffer R. Svarre
   url: www.linkedin.com/in/ksvarre
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51a61f8a-cff4-42cc-bbb4-4ea5beb5b733.png
-name: Think Like Me
+  email: ksvarre@gmail.com
 navigation:
   - name: Technology & Science
     url: 'http://ai.think-like.me'
@@ -31,24 +35,12 @@ navigation:
   - name: 'Business, Innovation & Entrepreneurship'
     url: 'http://business.think-like.me'
     type: external
+  - name: 'Portfolio & Accomplishments '
+    url: 'http://portfolio.think-like.me'
+    type: external
   - name: About me
     url: 'https://www.linkedin.com/in/ksvarre'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9e985e1-7831-41ec-aba7-58fabf799d41.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Think Like Me!
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -58,21 +50,17 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d028ee984a52904f170dcfe7b36b262b3143590.jpg
     metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      datePublished: null
+      '@context': 'http://schema.org'
+      keywords: []
+      publisher:
+        name: .s3-us-west-2.amazonaws.com
+        domain: s3-us-west-2.amazonaws.com
+        url: 'https://s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: welcome to my blog. i will post about things i find interesting. enjoy.
-purpose: []
+github: true
