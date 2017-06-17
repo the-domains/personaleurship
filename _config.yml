@@ -1,4 +1,12 @@
+name: Think Like Me
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9e985e1-7831-41ec-aba7-58fabf799d41.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51a61f8a-cff4-42cc-bbb4-4ea5beb5b733.png
+layout_spectrum: 0.6175194445152832
 typography_spectrum: 0.017875842441076248
+analytics:
+  google: UA-79126334-1
 color:
   brandColors:
     - '#000000'
@@ -10,17 +18,13 @@ color:
   lightness: 0.013177471823142013
   saturation: 0.5052946642027375
   rhythmicContrast: 0.8108088130328694
-github: true
-layout_spectrum: 0.6175194445152832
-analytics:
-  google: UA-79126334-1
+purpose: []
+title: Think Like Me!
+description: welcome to my blog. i will post about things i find interesting. enjoy.
 author:
   name: Kristoffer R. Svarre
   url: www.linkedin.com/in/ksvarre
   email: ksvarre@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51a61f8a-cff4-42cc-bbb4-4ea5beb5b733.png
-name: Think Like Me
 navigation:
   - name: Technology & Science
     url: 'http://ai.think-like.me'
@@ -31,18 +35,15 @@ navigation:
   - name: 'Business, Innovation & Entrepreneurship'
     url: 'http://business.think-like.me'
     type: external
+  - name: Crypto Economics & Blockchain Technology
+    url: 'http://crypto.think-like.me'
+    type: external
   - name: 'Portfolio & Accomplishments '
     url: 'http://portfolio.think-like.me'
     type: external
   - name: About me
     url: 'https://www.linkedin.com/in/ksvarre'
     type: external
-  - name: Crypto Economics & Blockchain Technology
-    url: 'http://crypto.think-like.me'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9e985e1-7831-41ec-aba7-58fabf799d41.png
-title: Think Like Me!
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -65,5 +66,4 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: welcome to my blog. i will post about things i find interesting. enjoy.
-purpose: []
+github: true
