@@ -4,9 +4,9 @@
         <description><![CDATA[Think Like Me!]]></description>
         <link>http://think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Jun 2017 05:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2017 16:18:20 GMT</lastBuildDate>
         <atom:link href="http://think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jun 2017 05:45:05 GMT</pubDate>
+        <pubDate>Wed, 21 Jun 2017 16:18:18 GMT</pubDate>
         <item>
             <title><![CDATA[The Rise of the Machines - Why Automation is Different this Time]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWSKi8HfcxEk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWSKi8HfcxEk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWSKi8HfcxEk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Fri, 09 Jun 2017 06:31:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How An Entire Nation Became Russia's Test Lab for Cyberwar]]></title>
+            <description><![CDATA[<article><h1>How An Entire Nation Became Russia&apos;s Test Lab for Cyberwar</h1><p>The clocks read zero when the lights went out. It was a Saturday night last December, and Oleksii Yasinsky was sitting on the couch with his wife and teenage son in the living room of their Kiev apartment. The 40-year-old Ukrainian cybersecurity researcher and his family were an hour into Oliver Stone&apos;s film Snowden when their building abruptly lost power.</p><img src="https://media.wired.com/photos/59405865aae1c722e8a117f6/master/w_2501,c_limit/blackout_full_bleed2.png"></article>]]></description>
+            <link>https://www.wired.com/story/russian-hackers-attack-ukraine</link>
+            <guid isPermaLink="false">65b4fff3-343f-4ba0-a0aa-1935fb73a8b6</guid>
+            <pubDate>Wed, 21 Jun 2017 16:18:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Eth Cracking - Phil Do - Medium]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/686792dabce2e1f31e7ae3560a963b58/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*7elLALsS0PDjdlLlY-8gCg.png"><h1>Eth Cracking - Phil Do - Medium</h1><p>Early Monday morning (June 12, 2017), I saw a post on reddit titled &quot; How to generate a big password list for a brute force attack for my Ethereum wallet? &quot;. Sweet. Edit: Since it looks like the guy deleted the text content of the post (a pretty smart move...), I&apos;ll summarize: &quot;Hey!</p></article>,<p><a href="https://medium.com/@phildo211/eth-cracking-1ae1ea67886a" title="Link">Click here to read the full article</a></p>]]></description>
             <link>http://think-like.me/eth-cracking-phil-do-medium/index.html</link>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@garyvee/i-dont-care-what-you-want-or-need-5eccbe32de0a</link>
             <guid isPermaLink="false">7732758b-f6c6-4477-86d1-662b3b4776bc</guid>
             <pubDate>Fri, 09 Jun 2017 16:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Find Your Happiness - Gary Vaynerchuk]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/12033192119bb593705b561a0647746d/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*J3SCAsdBrFhol0R-bdZCQQ.jpeg"><h1>Find Your Happiness - Gary Vaynerchuk</h1><p>For all of you out there that are the perfect number 2 or number 27 or number 997, this is for YOU. Please understand that somebody who makes $80,000 a year being a blogger about basketball is like being the 12th man on a team. You made it to the league, but you&apos;re not Lebron.</p></article>]]></description>
-            <link>https://medium.com/@garyvee/find-your-happiness-812e9ab08343</link>
-            <guid isPermaLink="false">5b38cabb-b8cd-4664-aa67-8346393920dc</guid>
-            <pubDate>Fri, 09 Jun 2017 16:15:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
