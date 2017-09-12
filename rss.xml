@@ -4,9 +4,9 @@
         <description><![CDATA[Think Like Me!]]></description>
         <link>http://think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Jun 2017 16:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2017 16:25:48 GMT</lastBuildDate>
         <atom:link href="http://think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jun 2017 16:18:18 GMT</pubDate>
+        <pubDate>Tue, 12 Sep 2017 16:25:46 GMT</pubDate>
         <item>
             <title><![CDATA[The Rise of the Machines - Why Automation is Different this Time]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWSKi8HfcxEk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWSKi8HfcxEk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWSKi8HfcxEk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -57,6 +57,13 @@
             <pubDate>Fri, 09 Jun 2017 06:31:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BEST SPEECH EVER Simon Sinek | INSPIRATIONAL SPEECH ABOUT LOVE - So Inspiring!]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_ztgMxdXafI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_ztgMxdXafI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_ztgMxdXafI%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/_ztgMxdXafI</link>
+            <guid isPermaLink="false">8599c8a8-0442-4902-a8b8-b0f752ef73e7</guid>
+            <pubDate>Tue, 12 Sep 2017 16:25:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How An Entire Nation Became Russia's Test Lab for Cyberwar]]></title>
             <description><![CDATA[<article><h1>How An Entire Nation Became Russia&apos;s Test Lab for Cyberwar</h1><p>The clocks read zero when the lights went out. It was a Saturday night last December, and Oleksii Yasinsky was sitting on the couch with his wife and teenage son in the living room of their Kiev apartment. The 40-year-old Ukrainian cybersecurity researcher and his family were an hour into Oliver Stone&apos;s film Snowden when their building abruptly lost power.</p><img src="https://media.wired.com/photos/59405865aae1c722e8a117f6/master/w_2501,c_limit/blackout_full_bleed2.png"></article>]]></description>
             <link>https://www.wired.com/story/russian-hackers-attack-ukraine</link>
@@ -69,13 +76,6 @@
             <link>http://think-like.me/eth-cracking-phil-do-medium/index.html</link>
             <guid isPermaLink="false">4ca051f5-4055-4544-b3e5-1dc3d6b6be89</guid>
             <pubDate>Sun, 18 Jun 2017 05:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I Don't Care What You Want or Need - Gary Vaynerchuk]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a02361c2417969f3d3f6cfae6d4dda5b/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*uITylaGnf5H43Ql9_cwQuw.png"><h1>I Don&apos;t Care What You Want or Need - Gary Vaynerchuk</h1><p>I&apos;m desperate for people to start defining their hopes and dreams and wants and needs on their terms, not on what I say. I don&apos;t care if you want to hustle 18 hours a day. I really don&apos;t. I don&apos;t...</p></article>]]></description>
-            <link>https://medium.com/@garyvee/i-dont-care-what-you-want-or-need-5eccbe32de0a</link>
-            <guid isPermaLink="false">7732758b-f6c6-4477-86d1-662b3b4776bc</guid>
-            <pubDate>Fri, 09 Jun 2017 16:18:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
