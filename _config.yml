@@ -39,7 +39,7 @@ navigation:
     url: 'https://crypto.think-like.me'
     type: external
   - name: 'Portfolio & Accomplishments '
-    url: 'http://portfolio.think-like.me'
+    url: 'https://portfolio.think-like.me'
     type: external
   - name: About me
     url: 'https://www.linkedin.com/in/ksvarre'
