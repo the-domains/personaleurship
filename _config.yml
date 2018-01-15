@@ -33,7 +33,7 @@ navigation:
     url: 'https://development.think-like.me'
     type: external
   - name: 'Business, Innovation & Entrepreneurship'
-    url: 'http://business.think-like.me'
+    url: 'https://business.think-like.me'
     type: external
   - name: Crypto Economics & Blockchain Technology
     url: 'http://crypto.think-like.me'
