@@ -30,7 +30,7 @@ navigation:
     url: 'https://ai.think-like.me'
     type: external
   - name: Motivation & Personal Development
-    url: 'http://development.think-like.me'
+    url: 'https://development.think-like.me'
     type: external
   - name: 'Business, Innovation & Entrepreneurship'
     url: 'http://business.think-like.me'
