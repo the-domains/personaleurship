@@ -4,9 +4,9 @@
         <description><![CDATA[Think Like Me!]]></description>
         <link>http://think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Sep 2017 16:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Apr 2018 22:40:25 GMT</lastBuildDate>
         <atom:link href="http://think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 Sep 2017 16:25:46 GMT</pubDate>
+        <pubDate>Tue, 17 Apr 2018 22:40:24 GMT</pubDate>
         <item>
             <title><![CDATA[The Rise of the Machines - Why Automation is Different this Time]]></title>
             <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWSKi8HfcxEk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWSKi8HfcxEk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWSKi8HfcxEk%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
@@ -64,18 +64,18 @@
             <pubDate>Tue, 12 Sep 2017 16:25:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Teens Who Hacked Microsoft's Videogame Empire-And Went Too Far]]></title>
+            <description><![CDATA[<article><h1>The Teens Who Hacked Microsoft&apos;s Videogame Empire-And Went Too Far</h1><p>I. The Bumper The trip to Delaware was only supposed to last a day. David Pokora, a bespectacled University of Toronto senior with scraggly blond hair down to his shoulders, needed to travel south to fetch a bumper that he&apos;d bought for his souped-up Volks&shy;wagen Golf R.</p><img src="https://media.wired.com/photos/5acd014589dd2039fecb0dd8/master/w_3542,c_limit/xboxunderground_notext.jpg"></article>]]></description>
+            <link>https://www.wired.com/story/xbox-underground-videogame-hackers?</link>
+            <guid isPermaLink="false">a9a915df-81e0-4aa2-b93e-4a20cd23f51a</guid>
+            <pubDate>Tue, 17 Apr 2018 22:40:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How An Entire Nation Became Russia's Test Lab for Cyberwar]]></title>
             <description><![CDATA[<article><h1>How An Entire Nation Became Russia&apos;s Test Lab for Cyberwar</h1><p>The clocks read zero when the lights went out. It was a Saturday night last December, and Oleksii Yasinsky was sitting on the couch with his wife and teenage son in the living room of their Kiev apartment. The 40-year-old Ukrainian cybersecurity researcher and his family were an hour into Oliver Stone&apos;s film Snowden when their building abruptly lost power.</p><img src="https://media.wired.com/photos/59405865aae1c722e8a117f6/master/w_2501,c_limit/blackout_full_bleed2.png"></article>]]></description>
             <link>https://www.wired.com/story/russian-hackers-attack-ukraine</link>
             <guid isPermaLink="false">65b4fff3-343f-4ba0-a0aa-1935fb73a8b6</guid>
             <pubDate>Wed, 21 Jun 2017 16:18:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eth Cracking - Phil Do - Medium]]></title>
-            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/686792dabce2e1f31e7ae3560a963b58/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*7elLALsS0PDjdlLlY-8gCg.png"><h1>Eth Cracking - Phil Do - Medium</h1><p>Early Monday morning (June 12, 2017), I saw a post on reddit titled &quot; How to generate a big password list for a brute force attack for my Ethereum wallet? &quot;. Sweet. Edit: Since it looks like the guy deleted the text content of the post (a pretty smart move...), I&apos;ll summarize: &quot;Hey!</p></article>,<p><a href="https://medium.com/@phildo211/eth-cracking-1ae1ea67886a" title="Link">Click here to read the full article</a></p>]]></description>
-            <link>http://think-like.me/eth-cracking-phil-do-medium/index.html</link>
-            <guid isPermaLink="false">4ca051f5-4055-4544-b3e5-1dc3d6b6be89</guid>
-            <pubDate>Sun, 18 Jun 2017 05:45:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
