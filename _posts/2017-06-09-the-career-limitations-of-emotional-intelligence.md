@@ -41,8 +41,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: The Career Limitations Of Emotional Intelligence
-datePublished: '2018-04-17T22:49:10.029Z'
-dateModified: '2018-04-17T22:49:09.753Z'
+datePublished: '2018-04-18T23:16:53.489Z'
+dateModified: '2018-04-18T23:16:53.216Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-09-the-career-limitations-of-emotional-intelligence.md
