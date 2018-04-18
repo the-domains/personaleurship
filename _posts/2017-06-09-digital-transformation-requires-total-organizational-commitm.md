@@ -23,8 +23,8 @@ app_links:
     namespace: google
     type: android
 title: Digital Transformation Requires Total Organizational Commitment
-datePublished: '2018-04-17T22:49:10.032Z'
-dateModified: '2018-04-17T22:49:09.753Z'
+datePublished: '2018-04-18T23:16:53.489Z'
+dateModified: '2018-04-18T23:16:53.216Z'
 via: {}
 inFeed: true
 sourcePath: >-
