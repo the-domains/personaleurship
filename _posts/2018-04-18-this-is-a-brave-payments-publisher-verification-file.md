@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: This is a Brave Payments publisher verification file.
-dateModified: '2018-04-18T23:14:47.455Z'
-datePublished: '2018-04-18T23:14:48.044Z'
+dateModified: '2018-04-18T23:16:53.216Z'
+datePublished: '2018-04-18T23:16:53.487Z'
 title: ''
 author: []
 publisher: {}
